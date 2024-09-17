@@ -1,4 +1,4 @@
-# dentist Website
+# dentist Website: Landing page
 
 ![alt text](ressources/preview.png)
 
